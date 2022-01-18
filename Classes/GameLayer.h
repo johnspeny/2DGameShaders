@@ -2,7 +2,7 @@
 #define __GAMELAYER_H__
 
 #include "cocos2d.h"
-#include "SimpleShader.h"
+#include "CustomShader.h"
 
 USING_NS_CC;
 

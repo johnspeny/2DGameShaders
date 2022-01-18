@@ -64,12 +64,12 @@ endif()
 list(APPEND GAME_SOURCE
      Classes/AppDelegate.cpp
      Classes/GameLayer.cpp
-     Classes/SimpleShader.cpp
+     Classes/CustomShader.cpp
      )
 list(APPEND GAME_HEADER
      Classes/AppDelegate.h
      Classes/GameLayer.h
-     Classes/SimpleShader.h
+     Classes/CustomShader.h
      )
 
 if(ANDROID)
